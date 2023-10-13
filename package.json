@@ -1,0 +1,20 @@
+{
+  "name": "try-redux-saga-isomorph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sima-land/isomorph": "^11.0.0-alpha.39",
+    "nodemon-webpack-plugin": "^4.8.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1",
+    "webpack-node-externals": "^3.0.0"
+  }
+}
